@@ -11,7 +11,10 @@
 ## 기술 스택
 
 ### Front-end
-
+- React
+- Redux
+- HTML5, CSS3
+  
 ### Back-end
 - Java 17
 - SpringBoot 3.1.1, Spring MVC, Spring Data JPA
