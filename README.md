@@ -60,4 +60,3 @@
 
 ## API 명세
 - **API Documentation**: [Postman Documentation](https://documenter.getpostman.com/view/20709565/2s9XxyPsZU#727e0bf5-5785-47b3-8fbc-bafe53b1c139)
-  - 로그인, 회원가입, 채팅, 게시판 등 주요 기능에 대한 API 설명을 포함하고 있습니다.
