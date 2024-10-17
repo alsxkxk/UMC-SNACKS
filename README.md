@@ -12,8 +12,8 @@
 
 ### Front-end
 - React
-- Redux
-- HTML5, CSS3
+- typescript
+- module css
   
 ### Back-end
 - Java 17
